@@ -1,0 +1,16 @@
+{
+  "name": "tab-delimited",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Parse or build a string of tabular data",
+  "repository": "aleclarson/tab-delimited",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "type-error": "^1.0.2"
+  }
+}
